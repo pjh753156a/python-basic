@@ -2,3 +2,4 @@ ss = {'a': 1, 'b': 2, 'c': 3, 'd': 4, 'e': 5, 'f': 6, 'g': 7, 'h': 8,'i': 9,'j':
 # print(ss)
 for k, v in ss.items():
     print(k, v)
+# 2차 복습 완료
