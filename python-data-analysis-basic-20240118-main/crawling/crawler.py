@@ -113,3 +113,4 @@ for image_src in image_list:
     urlretrieve(image_src, FOLDER_PATH + f'{number}.png')
     number += 1
     time.sleep(1)
+    #2차복습완료
